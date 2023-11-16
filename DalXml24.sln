@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DalXml24", "DalXml24\DalXml24.csproj", "{D05A1B1B-D4D4-45ED-8863-EDB815B0B904}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xml", "xml", "{7F02123C-231F-4E4A-8B98-69B9395BABE3}"
+	ProjectSection(SolutionItems) = preProject
+		xml\courses.xml = xml\courses.xml
+		xml\data-config.xml = xml\data-config.xml
+		xml\links.xml = xml\links.xml
+		xml\students.xml = xml\students.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05A1B1B-D4D4-45ED-8863-EDB815B0B904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05A1B1B-D4D4-45ED-8863-EDB815B0B904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05A1B1B-D4D4-45ED-8863-EDB815B0B904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05A1B1B-D4D4-45ED-8863-EDB815B0B904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B47226-D061-48FD-8AC1-8E57BFB2E2BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course>
+    <Id>1000</Id>
+    <CourseNumber>101-666-777</CourseNumber>
+    <CourseName />
+    <InYear>SecondYear</InYear>
+    <InSemester>SpringB</InSemester>
+    <DayInWeek>Sunday</DayInWeek>
+    <StartTime>PT15H</StartTime>
+    <EndTime>PT9H</EndTime>
+    <Credits>3</Credits>
+  </Course>
+  <Course>
+    <Id>1001</Id>
+    <CourseNumber>101-666-555</CourseNumber>
+    <CourseName />
+    <InYear>SecondYear</InYear>
+    <InSemester>WinterA</InSemester>
+    <DayInWeek>Thursday</DayInWeek>
+    <StartTime>PT14H</StartTime>
+    <EndTime>PT17H</EndTime>
+    <Credits>1</Credits>
+  </Course>
+  <Course>
+    <Id>1002</Id>
+    <CourseNumber>102-633-777</CourseNumber>
+    <CourseName />
+    <InYear>SecondYear</InYear>
+    <InSemester>SpringB</InSemester>
+    <DayInWeek>Wednesday</DayInWeek>
+    <StartTime>PT16H</StartTime>
+    <EndTime>PT14H</EndTime>
+    <Credits>2</Credits>
+  </Course>
+  <Course>
+    <Id>1003</Id>
+    <CourseNumber>103-666-767</CourseNumber>
+    <CourseName />
+    <InYear>ThirdYear</InYear>
+    <InSemester>SpringB</InSemester>
+    <DayInWeek>Wednesday</DayInWeek>
+    <StartTime>PT13H</StartTime>
+    <EndTime>PT9H</EndTime>
+    <Credits>3</Credits>
+  </Course>
+  <Course>
+    <Id>1004</Id>
+    <CourseNumber>101-666-777</CourseNumber>
+    <CourseName>CourseA 1</CourseName>
+    <InYear>SecondYear</InYear>
+    <InSemester>WinterA</InSemester>
+    <DayInWeek>Wednesday</DayInWeek>
+    <StartTime>PT12H</StartTime>
+    <EndTime>PT17H</EndTime>
+    <Credits>2</Credits>
+  </Course>
+  <Course>
+    <Id>1005</Id>
+    <CourseNumber>101-666-555</CourseNumber>
+    <CourseName>CourseB 222</CourseName>
+    <InYear>FirstYear</InYear>
+    <InSemester>WinterA</InSemester>
+    <DayInWeek>Wednesday</DayInWeek>
+    <StartTime>PT9H</StartTime>
+    <EndTime>PT15H</EndTime>
+    <Credits>3</Credits>
+  </Course>
+  <Course>
+    <Id>1006</Id>
+    <CourseNumber>102-633-777</CourseNumber>
+    <CourseName>CourseC 234</CourseName>
+    <InYear>SecondYear</InYear>
+    <InSemester>WinterA</InSemester>
+    <DayInWeek>Tuesday</DayInWeek>
+    <StartTime>PT18H</StartTime>
+    <EndTime>PT14H</EndTime>
+    <Credits>1</Credits>
+  </Course>
+  <Course>
+    <Id>1007</Id>
+    <CourseNumber>103-666-767</CourseNumber>
+    <CourseName>CourseD</CourseName>
+    <InYear>ExtraYear</InYear>
+    <InSemester>SpringB</InSemester>
+    <DayInWeek>Tuesday</DayInWeek>
+    <StartTime>PT8H</StartTime>
+    <EndTime>PT10H</EndTime>
+    <Credits>3</Credits>
+  </Course>
+  <Course>
+    <Id>1008</Id>
+    <CourseNumber>101-666-777</CourseNumber>
+    <CourseName>CourseA 1</CourseName>
+    <InYear>SecondYear</InYear>
+    <InSemester>SpringB</InSemester>
+    <DayInWeek>Tuesday</DayInWeek>
+    <StartTime>PT16H</StartTime>
+    <EndTime>PT15H</EndTime>
+    <Credits>3</Credits>
+  </Course>
+  <Course>
+    <Id>1009</Id>
+    <CourseNumber>101-666-555</CourseNumber>
+    <CourseName>CourseB 222</CourseName>
+    <InYear>ExtraYear</InYear>
+    <InSemester>WinterA</InSemester>
+    <DayInWeek>Wednesday</DayInWeek>
+    <StartTime>PT9H</StartTime>
+    <EndTime>PT17H</EndTime>
+    <Credits>1</Credits>
+  </Course>
+  <Course>
+    <Id>1010</Id>
+    <CourseNumber>102-633-777</CourseNumber>
+    <CourseName>CourseC 234</CourseName>
+    <InYear>FirstYear</InYear>
+    <InSemester>WinterA</InSemester>
+    <DayInWeek>Monday</DayInWeek>
+    <StartTime>PT10H</StartTime>
+    <EndTime>PT9H</EndTime>
+    <Credits>2</Credits>
+  </Course>
+  <Course>
+    <Id>1011</Id>
+    <CourseNumber>103-666-767</CourseNumber>
+    <CourseName>CourseD</CourseName>
+    <InYear>FirstYear</InYear>
+    <InSemester>WinterA</InSemester>
+    <DayInWeek>Wednesday</DayInWeek>
+    <StartTime>PT12H</StartTime>
+    <EndTime>PT16H</EndTime>
+    <Credits>2</Credits>
+  </Course>
+</ArrayOfCourse>
